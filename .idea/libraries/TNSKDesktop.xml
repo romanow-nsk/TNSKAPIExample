@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="TNSKDesktop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TNSKDesktop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/TNSKDesktop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TNSKDesktop.jar!/com/samskivert/super" />
+    </SOURCES>
+  </library>
+</component>
